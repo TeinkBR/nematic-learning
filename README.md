@@ -53,7 +53,7 @@ to the original repository - that goes beyond tDBG by including other moiré het
 
 2. Files for the investigations in Appendix D can be found in the folder `app_d` and some auxiliary *Mathematica* notebooks in `minimalmodel/matnb`.
 
-#### Eperimental $D_{\text{exp}}$ and theoretical $D_{\text{th}}$ datasets
+#### Experimental $D_{\text{exp}}$ and theoretical $D_{\text{th}}$ datasets
 
 3. The raw data for the experimental dataset $D_{\text{exp}}$ can be found in the folder `expdata`. To see how you can access and preprocess it, take a look 
 at `expdata_preprocessing.py`.
